@@ -24,5 +24,11 @@
   "DATE_ERROR_MESSAGE": "Please select date",
   "TIME_ERROR_MESSAGE": "Please select time",
   "RECURRENCE_PERIOD_ERROR_MESSAGE": "Please select valid recurrence period",
-  "START_TIME_LESSTHAN_END_TME_ERROR_MESSAGE": "From time should be before to time"
+  "START_TIME_LESSTHAN_END_TME_ERROR_MESSAGE": "From time should be before to time",
+  "NO_SERVICE_DATE_CONFLICTS": "No-Service Date conflicts",
+  "OVERLAPPING_CONFLICTS": "Overlapping conflicts",
+  "APPOINTMENT_SAVE_ANYWAY": "Save Anyway",
+  "APPOINTMENT_MODIFY_INFORMATION": "Modify information",
+  "OVERLAPPING_CONFLICTS_DEFAULT_TEXT": "The recurring appointments you are trying to book overlaps with the following dates",
+  "NO_SERVICE_CONFLICTS_DEFAULT_TEXT": "The {{serviceName}} service you had selected for the appointment(s) is not available during below listed dates"
 }
