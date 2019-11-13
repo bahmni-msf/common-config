@@ -29,6 +29,5 @@
   "OVERLAPPING_CONFLICTS": "Overlapping conflicts",
   "APPOINTMENT_SAVE_ANYWAY": "Save Anyway",
   "APPOINTMENT_MODIFY_INFORMATION": "Modify information",
-  "OVERLAPPING_CONFLICTS_DEFAULT_TEXT": "The recurring appointments you are trying to book overlaps with the following dates",
-  "NO_SERVICE_CONFLICTS_DEFAULT_TEXT": "The {{serviceName}} service you had selected for the appointment(s) is not available during below listed dates"
+  "OVERLAPPING_CONFLICTS_DEFAULT_TEXT": "The recurring appointments you are trying to book overlaps with the following dates"
 }
