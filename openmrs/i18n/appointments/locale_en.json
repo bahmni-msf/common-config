@@ -12,6 +12,7 @@
   "DAY_LABEL": "Day",
   "WEEK_LABEL": "Week",
   "APPOINTMENT_TIME_LABEL": "Choose a time slot",
+  "APPOINTMENT_TIME_LABEL_CHANGE": "Change time slot to",
   "APPOINTMENT_NOTES": "Notes",
   "APPOINTMENT_DATE_LABEL": "Appointment date",
   "REPEATS_EVERY_LABEL": "Repeats Every",
