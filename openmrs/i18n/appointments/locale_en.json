@@ -19,7 +19,7 @@
   "STARTS_LABEL": "Starts",
   "APPOINTMENT_TIME_FROM_LABEL": "From",
   "APPOINTMENT_TIME_TO_LABEL": "To",
-  "CHOOSE_TIME_PLACE_HOLDER": "Enter time as hh:mm am/pm",
+  "CHOOSE_TIME_PLACE_HOLDER": "hh:mm am/pm",
   "PATIENT_ERROR_MESSAGE": "Please select patient",
   "SERVICE_ERROR_MESSAGE": "Please select service",
   "DATE_ERROR_MESSAGE": "Please select date",
