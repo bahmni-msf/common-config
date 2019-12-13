@@ -9,6 +9,7 @@
   ],
   "config": {
     "enableSpecialities": false,
+    "enableResetAppointmentStatuses" : ["Cancel"],
     "startOfWeek": 1,
     "weekStart": "week",
     "calendarSlotDuration": "00:10:00",
