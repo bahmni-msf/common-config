@@ -39,8 +39,8 @@
   "APPOINTMENT_CREATE_CANCEL": "Cancel",
   "APPOINTMENT_UPDATE_LABEL": "Update",
   "APPOINTMENT_CREATE_CHECK_AND_SAVE": "Check and Save",
-  "APPOINTMENT_UPDATE_ONE_LABEL": "Update for today's date",
-  "APPOINTMENT_UPDATE_ALL_LABEL": "Auto Update all occurrences",
+  "APPOINTMENT_UPDATE_ONE_LABEL": "Update this occurrence",
+  "APPOINTMENT_UPDATE_ALL_LABEL": "Update all occurrences",
   "APPOINTMENT_UPDATE_CONFIRMATION_TITLE": "Kindly Confirm",
   "APPOINTMENT_UPDATE_CONFIRMATION_TEXT_SINGLE_APPOINTMENT": "This will update the details of the selected appointment. This cannot be reversed!",
   "APPOINTMENT_UPDATE_CONFIRMATION_TEXT_RECURRING_APPOINTMENT": "This will update the details of the entire appointment series. This cannot be reversed!",
@@ -55,5 +55,6 @@
   "RECURRENCE_WEEKDAYS_ERROR_MESSAGE": "Please select the day(s)",
   "NO_SERVICE_CONFLICTS_DEFAULT_TEXT": "The {label} service you had selected for the appointment(s) is not available during below listed dates",
   "PATIENT_DOUBLE_BOOKING_CONFLICT_MESSAGE": "Current {currentAppointmentService} request conflicts with {existingAppointmentService} appointment on or",
-  "APPOINTMENT_SAVE_SUCCESS_TEXT": "The new appointment for the patient {patientDetails} has been saved"
+  "APPOINTMENT_SAVE_SUCCESS_TEXT": "The new appointment for the patient {patientDetails} has been saved",
+  "INVALID_DAY": "Invalid day"
 }
