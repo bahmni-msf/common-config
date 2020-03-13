@@ -559,17 +559,17 @@
           },
           "SFP,  Video after:":{
             "disableAddNotes": true,
-	    "autocomplete": true  
+	    "autocomplete": true
           },
           "SFP,  Photo after:":{
             "disableAddNotes": true,
-	    "autocomplete": true	      
+	    "autocomplete": true
           },
 	  "SFP, Notes, other":{
             "conciseText": true
           },
 	  "SFP,  MLO visit at:":{
-	    "autocomplete": true              
+	    "autocomplete": true
           },
           "OMF, Chief complaint":{
             "multiSelect":true
@@ -1124,7 +1124,7 @@
                 "multiSelect":true
              },
 	     "MPA, AROM":{
-                "multiSelect":true  
+                "multiSelect":true
             },
             "ULA, cm":{
                 "disableAddNotes": true
@@ -1132,7 +1132,7 @@
             "ULA, True (reference point)":{
                 "disableAddNotes": true
             },
-            
+
             "ULA, Problem List":{
                 "allowAddMore":true
             },
@@ -1153,7 +1153,7 @@
             },
             "LLA, Stump circumference":{
                 "isTabular": true,
-		"allowAddMore":true    
+		"allowAddMore":true
             },
 	    "LLA, Level of amputation":{
 	    	"allowAddMore":true
@@ -1643,8 +1643,11 @@
             },
           "MDOF, Discharge medication section":{
             "allowAddMore": true
+          },
+          "Microbiology, Date of last CRP": {
+            "allowAddMore": true
           }
-            },
+        },
         "visitPage": {
             "observationDisplay": {
                 "conceptNames": []
