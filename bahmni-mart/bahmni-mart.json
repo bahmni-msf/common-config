@@ -20,12 +20,6 @@
           "columnsToIgnore": [
             "speciality"
           ]
-        },
-        {
-          "tableName": "patient_appointment_default",
-          "columnsToIgnore": [
-            "comments"
-          ]
         }
       ]
     },
@@ -115,13 +109,6 @@
             "family_name_suffix",
             "birthdate"
           ]
-        },
-        {
-          "tableName": "person_address_default",
-          "columnsToIgnore": [
-            "address4",
-            "address6"
-          ]
         }
       ]
     },
@@ -144,8 +131,7 @@
           "tableName": "medication_data_default",
           "columnsToIgnore": [
             "instructions",
-            "stop_notes",
-            "additional_instructions"
+            "stop_notes"
           ]
         }
       ]
@@ -216,9 +202,7 @@
         "eventCategory": "Encounter",
         "openmrsTableName": "encounter"
       },
-      "columnsToIgnore": [
-        "Disposition Note"
-      ]
+      "columnsToIgnore": []
     }
   ],
   "procedures":[
