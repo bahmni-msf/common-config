@@ -10,6 +10,7 @@
     "primarySurgeonsForOT" : ["Ali Al Ani","Sufyan Al Qasab","Hanna Janho","Ashraf Nabhan","Rasheed Al Sammarraie","Muckhaled Naseef","Ashraf Bustanji","Ghassan S.Abu-Sittah","Other Surgeon","Anaesthetist",
     "Samiha Al Hadid","Rami Habalruman","Dr Ali Al Ani and Dr Hanna Janho"],
     "printListViewTemplateUrl" : "/bahmni_config/openmrs/apps/ot/printListView.html",
+    "surgicalAppointmentUrl": "/bahmni_config/openmrs/apps/ot/surgicalAppointment.html",
     "procedureSQLGlobalProperty": "emrapi.sqlSearch.plannedProcedureForPatient",
     "calendarView": {
       "dayViewStart": "08:00",
